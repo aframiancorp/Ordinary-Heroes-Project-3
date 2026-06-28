@@ -193,7 +193,7 @@ section {
   left: 0;
   right: 0;
   z-index: 1000;
-  padding: 6px 0;
+  padding: 4px 0;
   background: var(--white);
   box-shadow: var(--shadow-sm);
   transition: padding var(--transition), box-shadow var(--transition);
@@ -219,7 +219,7 @@ section {
 }
 
 .nav-logo-img {
-  height: 180px;
+  height: 110px;
   width: auto;
   display: block;
 }
